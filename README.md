@@ -1,13 +1,9 @@
----
-
 # 💰 Financial Calculator: Investment & Bond Repayment
 
 This is a command-line Python program that allows users to calculate either:
 
-* 📈 Investment returns based on simple or compound interest
-* 🏠 Bond (home loan) repayments over a set period
-
----
+- 📈 Investment returns based on simple or compound interest
+- 🏠 Bond (home loan) repayments over a set period
 
 ## 🧩 Problem Statement
 
